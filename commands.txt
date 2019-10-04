@@ -40,5 +40,8 @@ Commits the files from the stage
 git push
 Pushes the local commits to GitHub
 
+git pull
+Pulls the latest changes from github
+
 
 
