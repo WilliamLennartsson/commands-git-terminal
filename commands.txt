@@ -37,6 +37,12 @@ remove file from stage
 git commit -m "Message goes here"
 Commits the files from the stage
 
+git log
+Prints list of commits
+
+git checkout <commithash>
+rolls back to specified commit
+
 git push
 Pushes the local commits to GitHub
 
