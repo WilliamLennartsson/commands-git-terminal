@@ -45,6 +45,7 @@ Prints list of commits
 
 git checkout <commithash>
 git checkout <branch-name>
+git checkout <file-name> // Remove changes from file
 Checks out to the state of either a commit or a branch
 
 git push
@@ -53,5 +54,6 @@ Pushes the local commits to GitHub
 git pull
 Pulls the latest changes from github
 
-
+git fetch 
+Fetches the lastest changes from remote. Does not put the code in the working directory
 
